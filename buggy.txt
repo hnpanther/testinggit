@@ -1,1 +1,3 @@
 may be is a bug!
+
+fixes bug 1
