@@ -11,3 +11,9 @@ hello
   - hello2
 
 use `git status` for this
+
+```bash
+git status
+git add .
+git commit -m "hello world"
+```
