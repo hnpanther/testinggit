@@ -24,7 +24,7 @@ so this works:
 - [ ] hello3
 
 ---
-##how to install
+## how to install
 | col1-right | col2-center | col3-left |
 |:----|:----:|----:|
 | data1 | data2 | data3 |
