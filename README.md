@@ -17,3 +17,9 @@ git status
 git add .
 git commit -m "hello world"
 ```
+***
+so this works:
+- [x] hello1
+- [ ] hello2
+- [ ] hello3
+
