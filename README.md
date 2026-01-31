@@ -3,7 +3,7 @@
 author: someone
 a silly book
 
-text of link](link)  
+[go to install](#how-to-install)  
 hello
 
 - main
@@ -24,6 +24,7 @@ so this works:
 - [ ] hello3
 
 ---
+##how to install
 | col1-right | col2-center | col3-left |
 |:----|:----:|----:|
 | data1 | data2 | data3 |
