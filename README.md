@@ -23,3 +23,8 @@ so this works:
 - [ ] hello2
 - [ ] hello3
 
+---
+| col1-right | col2-center | col3-left |
+|:----|:----:|----:|
+| data1 | data2 | data3 |
+___
