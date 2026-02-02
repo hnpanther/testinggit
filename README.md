@@ -23,6 +23,7 @@ so this works:
 - [ ] hello2
 - [ ] hello3
 
+[1^] this a matn
 ---
 ## how to install
 | col1-right | col2-center | col3-left |
@@ -34,3 +35,7 @@ ___
 > hello
 >> hello3
 >>> hello4
+
+---
+
+[^1] ok i'm here
